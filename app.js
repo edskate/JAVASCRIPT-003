@@ -26,3 +26,15 @@ switch (fruta) {
     default:
         console.log("fruta não encontrada!");
 }
+
+// Estrututa de rapetição:
+
+// 1,2,3,4,5,6,7,8,9.....=> dependendo de sua condição
+
+
+// contador, condição de limite, incremento  
+for(let i = 0; i < 5; i++) {
+    //concatenação
+    console.log("valor de i é: " + i);
+
+}
