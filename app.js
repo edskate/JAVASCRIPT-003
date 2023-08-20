@@ -38,10 +38,3 @@ for(let i = 0; i < 5; i++) {
     console.log("valor de i é: " + i);
 
 }
-// while
-let i = 0;
-while(i 5<) {
-    console.log("O valor de k: " + k);
-    k++;
-
-}
