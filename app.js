@@ -22,4 +22,7 @@ switch (fruta) {
     console.log("Banana é fruta!");
   case "Maçã":
     console.log("Maçã é fruta!");
+    break;
+    default:
+        console.log("fruta não encontrada!");
 }
